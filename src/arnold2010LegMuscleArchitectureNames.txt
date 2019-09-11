@@ -1,0 +1,48 @@
+Adductor brevis
+Adductor longus
+Adductor magnus group
+Adductor magnus distal
+Adductor magnus ischial
+Adductor magnus middle
+Adductor magnus proximal
+Biceps femoris long head
+Biceps femoris short head
+Extensor digitorum longus
+Extensor hallucis longus
+Flexor digitorum longus
+Flexor hallucis longus
+Gastrocnemius lateral head
+Gastrocnemius medial head
+Gemellie
+Gluteus maximusc group
+Gluteus maximus superior
+Gluteus maximus middle
+Gluteus maximus inferior
+Gluteus mediusg group
+Gluteus medius anterior
+Gluteus medius middle
+Gluteus medius posterior
+Gluteus minimuse
+Gluteus minimus anterior
+Gluteus minimus middle
+Gluteus minimus posterior
+Gracilis
+Iliacus
+Pectineush
+Peroneus brevis
+Peroneus longus
+Peroneus tertiuse
+Piriformise
+Psoas
+Quadratus femorise
+Rectus femoris
+Sartorius
+Semimembranosus
+Semitendinosus
+Soleus
+Tensor fascia lataee
+Tibials anterior
+Tibialis posterior
+Vastus intermedius
+Vastus lateralis
+Vastus medialis
