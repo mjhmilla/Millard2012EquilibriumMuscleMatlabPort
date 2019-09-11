@@ -75,7 +75,7 @@ Advanced Code Exploration
 ```
 calcMillard2012DampedEquilibriumMuscleInfo.m
 ```
-This function the state derivative and a large number of variables of interest.
+This function evaluates the state derivative and a large number of variables of interest.
 
 2. Examine
 ```
